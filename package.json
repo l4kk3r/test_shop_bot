@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/l4kk3r/test_shop_bot.git"
+    "url": "git+https://github.com/rostislav-compell/eCommerce-Test.git"
   },
   "author": "Rost",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/l4kk3r/test_shop_bot/issues"
+    "url": "https://github.com/rostislav-compell/eCommerce-Test/issues"
   },
-  "homepage": "https://github.com/l4kk3r/test_shop_bot#readme",
+  "homepage": "https://github.com/rostislav-compell/eCommerce-Test#readme",
   "dependencies": {
     "mongoose": "^5.12.3",
     "mongoose-auto-increment": "^5.0.1",
