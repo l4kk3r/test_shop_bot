@@ -1,0 +1,24 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Test Bot for @hrwod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l4kk3r/test_shop_bot.git"
+  },
+  "author": "Rost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l4kk3r/test_shop_bot/issues"
+  },
+  "homepage": "https://github.com/l4kk3r/test_shop_bot#readme",
+  "dependencies": {
+    "mongoose": "^5.12.3",
+    "mongoose-auto-increment": "^5.0.1",
+    "node-telegram-bot-api": "^0.52.0"
+  }
+}

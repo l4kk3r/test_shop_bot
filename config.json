@@ -1,0 +1,5 @@
+{
+    "TIMEZONE": "Europe/Moscow",
+    "TELEGRAM_SECRET": "1709719624:AAElmA-ln_jltTki2wX9PFks0rBiGPBAra0",
+    "MONGODB_SECRET": "mongodb+srv://admin:admin@projproj.gehyr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
